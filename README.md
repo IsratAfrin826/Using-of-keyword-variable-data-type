@@ -34,7 +34,6 @@ include:
 ### Variables
 
 Variables are named storage locations that hold data values. They must be declared with a specific data type before they can be used. The data type determines the kind of values a variable can store and the
-
 operations that can be performed on it.
 
 ### Declaration: 
