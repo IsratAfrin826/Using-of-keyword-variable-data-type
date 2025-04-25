@@ -54,26 +54,26 @@ Data types classify the type of data a variable can hold. C++ offers several bui
 
 1.Integer Types:
 
-int: Stores whole numbers (e.g., -10, 0, 100).
+   int: Stores whole numbers (e.g., -10, 0, 100).
 
-short: Stores smaller whole numbers.
+   short: Stores smaller whole numbers.
 
-long: Stores larger whole numbers.
+   long: Stores larger whole numbers.
 
 2.Floating-Point Types:
 
-float: Stores single-precision floating-point numbers (e.g., 3.14, -2.5).
+   float: Stores single-precision floating-point numbers (e.g., 3.14, -2.5).
 
-double: Stores double-precision floating-point numbers, offering higher accuracy.
+   double: Stores double-precision floating-point numbers, offering higher accuracy.
 
 3.Character Type:
 
-char: Stores single characters (e.g., 'a', 'Z', '$').
+   char: Stores single characters (e.g., 'a', 'Z', '$').
 
 4.Boolean Type:
 
-bool: Stores boolean values, either true or false.
+   bool: Stores boolean values, either true or false.
 
 5.Void Type:
 
-void: Represents the absence of a type, often used for functions that don't return a value.
+   void: Represents the absence of a type, often used for functions that don't return a value.
